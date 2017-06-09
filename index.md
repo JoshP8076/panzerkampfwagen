@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/JoshP8076/panzerkampfwagen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Panzerkampfwagen series began in the 1930s with Germany creating the Panzer I or Sd. Kfz. 101 or "Special Purpose Vehicle". Specifically the design of the Panzer I began in 1932 and its production entered in 1934. However, Germany wasn't satisfied with this vehicle as they had bigger plans for military tanks ever since its introduction in the First World War, or the "Great War", by Great Britain.
 
 ### Markdown
 
